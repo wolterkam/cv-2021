@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<g>
+	<g>
+		<path d="M8,2.7l5.6,2.8L8,8.4L2.4,5.6L8,2.7 M8,1.5l-8,4l8,4l8-4L8,1.5L8,1.5z"/>
+	</g>
+	<polygon points="8,10.8 1.2,7.4 0,8 8,12 16,8 14.8,7.4 	"/>
+	<polygon points="8,13.3 1.2,9.9 0,10.5 8,14.5 16,10.5 14.8,9.9 	"/>
+</g>
+</svg>
